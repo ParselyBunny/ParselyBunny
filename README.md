@@ -24,4 +24,4 @@ A free, horror visual novel with branching paths, developed in Renpy by a majori
 
 **Role**: Lead programmer
 
-<img alt="Several scenes of 2D characters in a modern setting having conversations. There are themes of violence and anger throughout the dialogue." src="https://raw.githubusercontent.com/ParselyBunny/ParselyBunny/master/images/painted_shadows_demo.gif" width="600" height="315" />
+![Several scenes of 2D characters in a modern setting having conversations. There are themes of violence and anger throughout the dialogue.](https://raw.githubusercontent.com/ParselyBunny/ParselyBunny/master/images/painted_shadows_demo.gif)
