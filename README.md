@@ -12,10 +12,10 @@ Role: Event scripting
 A cute, 2.5d RPG with paper doll style animation developed in Unity 3D and inspired by Paper Mario: The Thousand Year Door.
 Role: Unity developer
 
-![A 2D character walks around a 3D level, approaching various NPCs.](https://github.com/ParselyBunny/ParselyBunny/images/world_of_friends_demo.gif)
+![A 2D character walks around a 3D level, approaching various NPCs.](https://raw.githubusercontent.com/ParselyBunny/ParselyBunny/master/images/world_of_friends_demo.gif)
 
 ## Painted Shadows
 A free, horror visual novel with branching paths, developed in Renpy by a majority LGBT+ team.
 Role: Lead programmer
 
-![Several scenes of 2D characters in a modern setting having conversations. There are themes of violence and anger throughout the dialogue.](https://github.com/ParselyBunny/ParselyBunny/images/painted_shadows_demo.gif)
+![Several scenes of 2D characters in a modern setting having conversations. There are themes of violence and anger throughout the dialogue.](https://raw.githubusercontent.com/ParselyBunny/ParselyBunny/master/images/painted_shadows_demo.gif)
