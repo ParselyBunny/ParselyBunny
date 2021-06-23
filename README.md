@@ -6,9 +6,9 @@ I currently contribute to several game projects:
 ## [An Outcry](https://quinnk.itch.io/outcry)
 A surreal, horror RPG with branching paths by GlasStadtGames.
 
-[![An Outcry trailer](https://raw.githubusercontent.com/ParselyBunny/ParselyBunny/master/images/an_outcry_thumbnail.png)](https://www.youtube.com/watch?v=8UvLNnXDsY0)
-
 **Role**: Event scripting
+
+[![An Outcry trailer](https://raw.githubusercontent.com/ParselyBunny/ParselyBunny/master/images/an_outcry_thumbnail.png)](https://www.youtube.com/watch?v=8UvLNnXDsY0)
 
 
 ## World of Friends
