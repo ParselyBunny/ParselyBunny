@@ -1,3 +1,3 @@
 # Meet Parsely
 
-Hi! I'm a indie game developer.
+Hi! I'm an indie game developer.
